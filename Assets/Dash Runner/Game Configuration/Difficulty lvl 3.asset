@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cabddc297b5cdef419e07404bc2872f8, type: 3}
+  m_Name: Difficulty lvl 3
+  m_EditorClassIdentifier: 
+  heroTagName: hero
+  heroLayerName: hero
+  distanceToReachToUnlockThisDifficulty: 300
+  speedCoefficient: 1.2
+  obstacles:
+  - {fileID: 114958044301327810, guid: 95f43f69ef01dba46ab35fb63cc4d011, type: 2}
+  - {fileID: 114175152611589806, guid: 75e5eb8289ff64f4a8956834ebfc7f9b, type: 2}
+  - {fileID: 114388581906054412, guid: 0072d3f7c35a1d04e9d807bb1d0e97f3, type: 2}
+  - {fileID: 114901887244788940, guid: 7addfccd98728ac4ba896a5539d757e7, type: 2}
+  - {fileID: 114581228539159464, guid: 50e75c1c584039c40aef9b5ea1c88e6a, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cabddc297b5cdef419e07404bc2872f8, type: 3}
+  m_Name: Difficulty lvl 5
+  m_EditorClassIdentifier: 
+  heroTagName: hero
+  heroLayerName: hero
+  distanceToReachToUnlockThisDifficulty: 750
+  speedCoefficient: 1.2
+  obstacles:
+  - {fileID: 114514342812156972, guid: f57935f5ff32a5b43b220c1779cd9d7a, type: 2}
+  - {fileID: 114994096419538994, guid: 6d819e80ff01ea64d893a6c210bbbf57, type: 2}
+  - {fileID: 114388581906054412, guid: 0072d3f7c35a1d04e9d807bb1d0e97f3, type: 2}
+  - {fileID: 114175152611589806, guid: 75e5eb8289ff64f4a8956834ebfc7f9b, type: 2}
+  - {fileID: 114196671642918314, guid: 86351ea3186abd34ab70329146ed522a, type: 2}
+  - {fileID: 114737101428721440, guid: 8d0e21e0fea98bf4db664f95592e5d18, type: 2}
+  - {fileID: 114581228539159464, guid: 50e75c1c584039c40aef9b5ea1c88e6a, type: 2}
+  - {fileID: 114901887244788940, guid: 7addfccd98728ac4ba896a5539d757e7, type: 2}
+  - {fileID: 114958044301327810, guid: 0639fdff1a7aa3b4ba6cc876be85a6a5, type: 2}
+  - {fileID: 114179534827516156, guid: fc23e1f56e8e42a4a9ae5671e93ccc46, type: 2}
+  - {fileID: 114403138502313532, guid: 5ac0a59cf790bc243ab1ba89c4d018a8, type: 2}

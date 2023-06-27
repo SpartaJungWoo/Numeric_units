@@ -1,0 +1,37 @@
+<TextureAtlas imagePath="Main spritesheet.png">
+	<SubTexture name="bg-white.png" x="172" y="1950" width="64" height="64"/>
+	<SubTexture name="big_premium.png" x="852" y="0" width="172" height="169"/>
+	<SubTexture name="bouboule.png" x="0" y="1122" width="511" height="510"/>
+	<SubTexture name="bouboule_pouissance.png" x="0" y="0" width="850" height="337"/>
+	<SubTexture name="btn_home.png" x="0" y="955" width="633" height="165"/>
+	<SubTexture name="btn_slice.png" x="513" y="1362" width="118" height="118"/>
+	<SubTexture name="clap.png" x="938" y="987" width="141" height="140"/>
+	<SubTexture name="countdown-circle.png" x="922" y="665" width="159" height="159"/>
+	<SubTexture name="croix.png" x="513" y="1482" width="63" height="63"/>
+	<SubTexture name="cup.png" x="664" y="827" width="58" height="52"/>
+	<SubTexture name="doigt.png" x="316" y="1634" width="283" height="212"/>
+	<SubTexture name="dot.png" x="238" y="1950" width="64" height="64"/>
+	<SubTexture name="fb_bleu.png" x="56" y="1995" width="26" height="51"/>
+	<SubTexture name="fb_white.png" x="517" y="1848" width="61" height="82"/>
+	<SubTexture name="fleche.png" x="635" y="955" width="301" height="1046"/>
+	<SubTexture name="gear.png" x="95" y="1950" width="75" height="75"/>
+	<SubTexture name="home.png" x="938" y="826" width="159" height="159"/>
+	<SubTexture name="obstacle-bleu-particule.png" x="517" y="1932" width="60" height="64"/>
+	<SubTexture name="obstacle-bleu.png" x="1000" y="1692" width="60" height="261"/>
+	<SubTexture name="obstacle-bleu2.png" x="938" y="1129" width="60" height="678"/>
+	<SubTexture name="obstacle-rouge.png" x="1000" y="1129" width="60" height="561"/>
+	<SubTexture name="pause.png" x="0" y="339" width="662" height="614"/>
+	<SubTexture name="picto-score.png" x="0" y="1950" width="93" height="43"/>
+	<SubTexture name="play.png" x="922" y="504" width="159" height="159"/>
+	<SubTexture name="play_again.png" x="922" y="343" width="159" height="159"/>
+	<SubTexture name="premium_home.png" x="922" y="171" width="170" height="170"/>
+	<SubTexture name="ripple.png" x="664" y="569" width="256" height="256"/>
+	<SubTexture name="round-box-filled.png" x="513" y="1122" width="118" height="118"/>
+	<SubTexture name="round-box.png" x="513" y="1242" width="118" height="118"/>
+	<SubTexture name="spark.png" x="576" y="1547" width="38" height="51"/>
+	<SubTexture name="speaker.png" x="316" y="1848" width="199" height="178"/>
+	<SubTexture name="sphere.png" x="0" y="1634" width="314" height="314"/>
+	<SubTexture name="sphere_trail.png" x="664" y="339" width="256" height="228"/>
+	<SubTexture name="twitter_bleu.png" x="0" y="1995" width="54" height="42"/>
+	<SubTexture name="twitter_white.png" x="513" y="1547" width="61" height="75"/>
+</TextureAtlas>
